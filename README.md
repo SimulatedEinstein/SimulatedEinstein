@@ -9,8 +9,11 @@ My work focuses on combining physics, mathematics, and machine learning to solve
 I am particularly interested in:
 
 • Computational heat transfer
+
 • Fluid dynamics simulations
+
 • Scientific machine learning
+
 • Physics-informed deep learning for solving PDEs
 
 Currently, I am building projects involving PINNs for heat transfer and fluid flow problems as part of my journey toward becoming a computational scientist.
@@ -19,32 +22,46 @@ Currently, I am building projects involving PINNs for heat transfer and fluid fl
 ## 🚀 Current Interests
 
 • Physics-Informed Neural Networks (PINNs)
+
 • Computational Fluid Dynamics (CFD)
+
 • Scientific Machine Learning
+
 • Numerical methods for PDEs
+
 • AI for physics-based simulations
 
 
 ## 🛠️ Skills
 
 ✔️ Python, TensorFlow, PyTorch
+
 ✔️ MATLAB
+
 ✔️ Scientific Computing (NumPy, Matplotlib)
+
 ✔️ Machine Learning for Physics Problems
+
+
 ✔️ Computational Heat Transfer
 
 
 ## 📊 Current Work
 
+
 • PINN for 1D Steady-State Heat Equation
+
 • PINN for 2D Heat Conduction
+
 • PINN for Jet Impingement Heat Transfer on a Cylinder
 
 
 ## 🌱 Currently Learning
 
 • Advanced Scientific Machine Learning
+
 • PINNs for Navier–Stokes equations
+
 • Computational Fluid Dynamics
 
 
