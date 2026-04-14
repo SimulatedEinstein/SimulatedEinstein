@@ -42,18 +42,8 @@ Currently, I am building projects involving PINNs for heat transfer and fluid fl
 
 ✔️ Machine Learning for Physics Problems
 
-
 ✔️ Computational Heat Transfer
 
-
-## 📊 Current Work
-
-
-• PINN for 1D Steady-State Heat Equation
-
-• PINN for 2D Heat Conduction
-
-• PINN for Jet Impingement Heat Transfer on a Cylinder
 
 
 ## 🌱 Currently Learning
